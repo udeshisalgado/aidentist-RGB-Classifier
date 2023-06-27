@@ -15,7 +15,7 @@
         <img src="./assets/AI DENTIST LOGO.jpg" alt="" srcset="" width="60" height="60" class="mb-0">
         <p class="text-h6 text-md-h5 text-lg-h4 ml-4"> Aidentist: RGB Classifier</p>
       </v-row>
-      <p class="ml-15" style="margin-top: -20px; margin-left: 30px;">Tooth anomaly detector for RGB dental images.</p>
+      <p class="ml-15" style="margin-top: -20px; margin-left: 30px;">Tooth anomaly detector for colored dental images.</p>
     </div>
     </v-card>
 
